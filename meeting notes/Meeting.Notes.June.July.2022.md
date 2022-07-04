@@ -3,7 +3,7 @@
 ## July 4, 2022
 
 ### dones & to-dos
-가장 최신 통일부 자료 통해서 내각, 노동당 기구 조사 완료 되었고 이것을 기반으로 현재 우리가 가지고 있는 데이터 오류 수정 작업이 필요하다
+가장 최신 통일부 자료 통해서 내각, 노동당 기구 조사 완료 되었고 이것을 기반으로 현재 우리가 가지고 있는 데이터 오류 수정 작업, 비교가 필요하다
 - [tree.xlsx](https://github.com/seouljake/nkelites/blob/main/data/combined%20data/combined%20data%20-%203%20queries/tree.xlsx)에 있는 오류 표시 --> Jacob이 수정 가능
 - Org3 업로드 후 현재 조사 내용과 비교 및 수정 --> 새로 올린 [tree_org1_thru_org5.xlsx](https://github.com/seouljake/nkelites/blob/main/data/combined%20data/combined%20data%20-%203%20queries/tree_org1_thru_org5.xlsx) 파일 참고
 - 조사 하면서 명칭 변경 기록 [1998년 정무원 구조조정 통폐합](https://github.com/seouljake/nkelites/blob/main/references/1998%E1%84%82%E1%85%A7%E1%86%AB%20%E1%84%92%E1%85%A2%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%80%E1%85%B5%E1%84%80%E1%85%AE%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%E1%84%8C%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%BC.jpg), 최신 조직개편 자료 필요 (통일연구원 발표 자료 참고)  
