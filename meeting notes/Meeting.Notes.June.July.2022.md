@@ -1,9 +1,21 @@
-# June 24, 2022
+# NK Elite Data Cleaning and Coding
 
-## data cleaning steps
+## July 4, 2022
+
+### dones & to-dos
+가장 최신 통일부 자료 통해서 내각, 노동당 기구 조사 완료 되었고 이것을 기반으로 현재 우리가 가지고 있는 데이터 오류 수정 작업이 필요
+- ([tree.xlsx](https://github.com/seouljake/nkelites/blob/main/data/combined%20data/combined%20data%20-%203%20queries/tree.xlsx)에 있는 오류 표시 --> Jacob이 수정 가능
+- Org3 업로드 후 현재 조사 내용과 비교 및 수정
+- 조사 하면서 명칭 변경 기록 [1998년 정무원 구조조정 통폐합](https://github.com/seouljake/nkelites/blob/main/references/1998%E1%84%82%E1%85%A7%E1%86%AB%20%E1%84%92%E1%85%A2%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%80%E1%85%B5%E1%84%80%E1%85%AE%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%E1%84%8C%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%BC.jpg), 최신 조직개편 자료 필요 (통일연구원 발표 자료 참고)  
+- 최근에 정리한 군사조직도에 의하면 2020년에도 통폐합, 명칭 변경이 있던걸로 추정
+- 전부 정리되면 노동당 조직도 만들기
+
+## June 24, 2022
+
+### data cleaning steps
 
 - 외곽단체 조직도 정리, repo에 있는 [외곽단체 이름 참고](https://github.com/seouljake/nkelites/blob/main/references/party/association_names.txt) 해서 excel spreadsheet 만들기 (1열 org1 2열 org2), 현재 데이터는 org1 노동당 org2 외곽단체로 기록되어 있음
-- Unique org1, org2 ([tree.xlsx](https://github.com/seouljake/nkelites/blob/main/data/9999%20combined%20data/9999%20data%20-%203%20queries/tree.xlsx) 참고, [군사조직도](https://github.com/seouljake/nkelites/blob/main/references/%EB%B6%81%ED%95%9C%20%EA%B5%B0%EC%82%AC%EC%A1%B0%EC%A7%81%EB%8F%84.jpeg) 참고) --> 노동당 조직도 만들기
+- Unique org1, org2 ([tree.xlsx](https://github.com/seouljake/nkelites/blob/main/data/combined%20data/combined%20data%20-%203%20queries/tree.xlsx) 참고, [군사조직도](https://github.com/seouljake/nkelites/blob/main/references/%EB%B6%81%ED%95%9C%20%EA%B5%B0%EC%82%AC%EC%A1%B0%EC%A7%81%EB%8F%84.jpeg) 참고) --> 노동당 조직도 만들기
 
 **조직도 만들때 주의사항**
 - org2들이 많은 경우 (ex. 외곽단체) 이름을 전부 나열할 필요 없음
