@@ -5,7 +5,7 @@
 ### 노동당
 가장 최신 자료 토대로 노동당 기구 및 외곽단체 조사, 현재 우리가 수집한 자료의 오류 사항 등 조사가 완료되었고, 코딩이 필요
 - Jacob이 만든 엑셀 파일 템플렛 토대로 통/폐합 조직, 존속 여부 확인 어려운 조직 등 전부 표시 및 새로운 field 표기 --> Jacob이 데이터베이스 수정
-- 노동당 조직도 만들기, [군사조직도](https://github.com/seouljake/nkelites/blob/main/references/%EB%B6%81%ED%95%9C%20%EA%B5%B0%EC%82%AC%EC%A1%B0%EC%A7%81%EB%8F%84.jpeg) 참고 (영문버전/한글버전)
+- 노동당 조직도 만들기 (영문 버전 & 한글 버전), [군사조직도](https://github.com/seouljake/nkelites/blob/main/references/%EB%B6%81%ED%95%9C%20%EA%B5%B0%EC%82%AC%EC%A1%B0%EC%A7%81%EB%8F%84.jpeg) 참고
 
 ### 내각
 - 최신 자료 토대로 내각 조직 명칭 확인 및 현재 가지고 있는 자료의 오류 조사 및 수정
