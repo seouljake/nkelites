@@ -1,5 +1,15 @@
 # NK Elite Data Cleaning and Coding
 
+## July 18, 2022
+
+- 노동당 조사/코딩 완료 되었고 내각, 인민군 조사 및 코딩 진행
+- 노동당 코딩된 것 (Meta) 파일 --> 추후 Jacob이 데이터베이스 수정
+
+- 수집 데이터와 통일부 내용 비교 —> 추후 description 논문에 추가할 예정
+
+### other points raised
+2015 data and 2021 data are slightly different, we may not need to disambiguate both. If the names overlap we can just use the 2015 data because this is the data we are cleaning right now.
+
 ## July 11, 2022
 
 ### 노동당
