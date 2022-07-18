@@ -1,4 +1,4 @@
-LeaderID,FamilyMemberRelationship,FamilyMemberName,FamilyMemberSex,FamilyMemberBirthString,FamilyMemberCurrentOrganization,FamilyMemberCurrentPosition,FamilyMemberDeathReported
+LeaderID,FamilyRelationship,FamilyName,FamilySex,FamilyBirthString,FamilyCurrentOrganization,FamilyCurrentPosition,FamilyDeathReported
 강관주,매,강관숙,여성,연도미상,,,
 강관주,자,강정옥,여성,1963,,,
 강관주,사위,손영훈,남성,1960,,,
