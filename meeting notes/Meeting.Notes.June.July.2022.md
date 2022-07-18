@@ -7,7 +7,8 @@
 - 수집 데이터와 통일부 내용 비교 —> 추후 description 논문에 추가할 예정
 
 ### other points raised
-2015 data and 2021 data are slightly different, we may not need to disambiguate both. If the names overlap we can just use the 2015 data because this is the data we are cleaning right now.
+- 기타기관 career string 기록 —> conclusion 부분에 언급해도 좋을 듯 (elite career trajectory가 기타기관도 포함한다는 것이 새로운 finding일 수 있음)
+- 2015 data and 2021 data are slightly different, we may not need to disambiguate both. If the names overlap we can just use the 2015 data because this is the data we are cleaning right now.
 
 ## July 11, 2022
 
