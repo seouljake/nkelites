@@ -4,8 +4,7 @@
 
 - 내각 코딩/조사 완료 되었고 인민군 조사 및 코딩 진행
 - 최고인민회의, 중앙인민회의 관련 조사 --> 다음 미팅에서 코딩 룰 결정하기로 함
-- [최고인민회의 연구 참고](https://github.com/seouljake/nkelites/blob/main/references/papers/%E1%84%8E%E1%85%AC%E1%84%80%E1%85%A9%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%86%E1%85%B5%E1%86%AB%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE.pdf), 1990년 이후에 대한 참고자료 모아서 업데이트 필요
-
+- [최고인민회의 연구 참고](https://github.com/seouljake/nkelites/blob/main/references/papers/%E1%84%8E%E1%85%AC%E1%84%80%E1%85%A9%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%86%E1%85%B5%E1%86%AB%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE.pdf), 1990년 이후에 대한 문헌조사 
 ### other points raised
 - Codebook 어떻게 쓸지에 대한 brainstorming 시작 --> outline 만들기
 - Coding rules:  rank가 명확한 행정부서와 아닌 조직 (e.g., 최고인민회의)가 존재하고 이런 조직들의 경우 rank 반영 필요 ('지도' 받는 경우 더 낮은 랭크로 코딩)
