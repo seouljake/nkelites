@@ -9,6 +9,9 @@
 - Codebook 어떻게 쓸지에 대한 brainstorming 시작 --> outline 만들기
 - Coding rules:  rank가 명확한 행정부서와 아닌 조직 (e.g., 최고인민회의)가 존재하고 이런 조직들의 경우 rank 반영 필요 ('지도' 받는 경우 더 낮은 랭크로 코딩)
 
+### publication ideas
+- New datasets can be discussed in depth in research notes. We can think about submission strategies.
+
 ## July 18, 2022
 
 - 노동당 조사/코딩 완료 되었고 내각, 인민군 조사 및 코딩 진행
