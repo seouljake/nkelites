@@ -1,7 +1,0 @@
-update career table
-
-moving string from education table
-
-MOUID	LeaderID	CareerString
-647	권호웅		"1995. 4 김일성종합대학 학생위원회 대표"
-
