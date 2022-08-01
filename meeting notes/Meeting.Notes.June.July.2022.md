@@ -8,7 +8,7 @@
 - [Jeongsoo's research notes here](https://github.com/seouljake/nkelites/blob/main/references/%E1%84%87%E1%85%AE%E1%86%A8%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%AE%E1%86%A8%E1%84%80%E1%85%A1%E1%84%80%E1%85%B5%E1%84%80%E1%85%AA%E1%86%AB%E1%84%8E%E1%85%A6%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B4%20%E1%84%80%E1%85%AE%E1%84%89%E1%85%A5%E1%86%BC-%E1%84%8E%E1%85%AC%E1%84%80%E1%85%A9%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%86%E1%85%B5%E1%86%AB%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%E1%84%8B%E1%85%AA%20%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%86%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B1%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%92%E1%85%AC%20%E1%84%87%E1%85%B5%E1%84%80%E1%85%AD.docx)
 
 ### to-dos
-- 소속관계로 랭킹 표현 안되는 부분 다시 코딩 --> Jacob
+- 소속관계로 랭킹 표현 안되는 부분 다시 코딩 --> Jacob이 coding rule 바꿔서 반영
 - 코딩북 작성 시작 --> outline 추후 업로드할 예정
 - Research note 작성 방안 계획 시작
 
