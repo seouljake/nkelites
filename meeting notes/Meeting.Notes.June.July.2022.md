@@ -9,7 +9,7 @@
 
 ### to-dos
 - 소속관계로 랭킹 표현 안되는 부분 다시 코딩 --> Jacob이 coding rule 바꿔서 반영
-- 코딩북 작성 시작 --> outline 추후 업로드할 예정
+- 코딩북 작성 시작 --> [google docs](https://docs.google.com/document/d/1jJbcz45q-gZxDzypXevO_OTzpxOCdjeF450ZQ26oO9U/edit?usp=sharing)
 - Research note 작성 방안 계획 시작
 
 ## Jul 25, 2022
