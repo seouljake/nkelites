@@ -1,5 +1,20 @@
 # NK Elite Data Cleaning and Coding
 
+## Aug 8, 2022
+- 랭킹 부분 다시 코딩 결정, 중앙위 등 노동당 내 조직들과 총정치국, 비서국의 지위 조사 후 반영
+- 조사한 부분 코드북에 지속적으로 반영
+
+### research note
+- 코딩룰 등 데이터 구조에 대한 설명 --> Jacob
+- theoretical implication --> Esther
+- 북한 관료 조직관련 현존 페이퍼/데이터 조사 --> Jeongsoo
+- Research note examples here -- [Foreign Policy](https://academic.oup.com/fpa/article/18/3/orac012/6575815); [JEAS](https://www.cambridge.org/core/journals/journal-of-east-asian-studies/article/who-are-the-influentials-in-chinas-cyberspace-and-what-do-they-say-about-the-issue-of-sinojapanese-relations/DF1994EA2F668CB4C379D04D638C6F1E)
+- Research note 구조
+1) Importance of the topic -- why study NK elites? Bring in literature here, for example on personalization and authoritarian resilience, as well as area studies (i.e., articles from [North Korea Review](https://www.jstor.org/journal/nortkorerevi))
+2) What kind of analysis are we doing? We examine whether there is a promotion pattern within the bureaucracy, interesting patterns that have not been examined before
+3) Introduction of the data set, structure, coding rules, etc., and analysis
+
+
 ## Aug 1, 2022
 
 ### decisions
