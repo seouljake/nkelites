@@ -13,6 +13,7 @@
 1) Importance of the topic -- why study NK elites? Bring in literature here, for example on personalization and authoritarian resilience, as well as any articles on North Korean bureaucracy (i.e., articles from [North Korea Review](https://www.jstor.org/journal/nortkorerevi))
 2) What kind of analysis are we doing? We examine whether there is a promotion pattern within the bureaucracy, interesting patterns that have not been examined before
 3) Introduction of the data set, structure, coding rules, etc., and analysis
+4) Conclusion, what should be further researched, etc.
 
 
 ## Aug 1, 2022
