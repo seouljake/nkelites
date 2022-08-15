@@ -8,9 +8,7 @@
 
 ## to-do
 - 노동당 내 조직들의 위계에 대한 연구 정리 (특정 논란에 대하여)
-- Research Notes 폴더에 있는 연구 파악 및 정리 -- 특히 Haggard et al. (Asian Survey), Ishimaya et al. (Comparative Politics)
----> Jeongsue, Esther
-
+- Research Notes 폴더에 있는 연구 파악 및 정리 -- 특히 Haggard et al. (Asian Survey), Ishimaya et al. (Comparative Politics) ---> Jeongsue, Esther
 - 코드북 지속적으로 코멘트, 수정, 영문 번역
 - 코딩룰 반영해서 데이터 클리닝 --> Jacob
 
