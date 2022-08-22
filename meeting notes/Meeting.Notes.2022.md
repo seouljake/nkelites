@@ -1,5 +1,13 @@
 # NK Elite Data Cleaning and Coding
 
+## Aug 22, 2022
+
+- 노동당 내 조직들 위계에 대한 문헌 정리
+- 인민군 위계 업데이트 ---> Jacob
+- KINU 서적 등 문헌 정리
+- 혈연 / guerilla faction 변수 코딩할지 결정
+- 다음 미팅 -- second week of October (October 10 - 14)
+
 ## Aug 15, 2022
 - 노동당 내 조직들 위계에 대한 토론
    * 당중앙위원회, 당중앙군사위원회, 당중앙검사위원회는 위계가 같은 것으로 코딩 (통일부)
