@@ -1,5 +1,8 @@
 # NK Elite Data Cleaning and Coding
 
+## Aug 30, 2022
+- 기존 데이터에 조사 내용 반영 --> Sep 4 meeting
+
 ## Aug 22, 2022
 
 - 노동당 내 조직들 위계에 대한 문헌 정리
