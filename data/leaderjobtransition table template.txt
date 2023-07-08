@@ -1,0 +1,7 @@
+career + leadercareerlink -->
+
+leader		kimfamily	earlier job		later job		samePI	advancement	
+leader 1, 			PI-OrgName a, date a, 	PI-OrgName b, date b	y	y
+
+leader 2, 			PI-OrgName a, date a, 	PI-OrgName b, date b	y	y
+leader 2, 			PI-OrgName b, date b, 	PI-OrgName c, date c	n	y
