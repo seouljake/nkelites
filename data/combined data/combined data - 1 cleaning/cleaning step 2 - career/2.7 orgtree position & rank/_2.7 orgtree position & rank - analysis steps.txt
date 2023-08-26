@@ -1,0 +1,50 @@
+2.7 orgtree position & rank - steps to creating orgtree_position_rank
+
+
+1.0 position_rank_
+	
+	Created these files from orgtree & career tables
+
+	Esther & Jeongsu manually ranked positions
+
+	I discovered the 통일부 기관별 인명록,
+	and realized it would be better to base our orgtree on this,
+	rather than on our data.
+
+1.1 orgtree_position_rank
+
+	I created this file using the 2022년 기관별 인명록.
+
+	I introduced a position rank system with three levels: P1, P2, P3
+
+	I integrated all 0. position_rank_ files into 1.0 orgtree_position_rank, 
+	and use a new PI_index to code them.
+		0+ series are included in 2022년 기관별 인명록
+		200+ series are current orgs, but not in 2022년 기관별 인명록
+		500+ series are not current orgs
+
+2.0_mismatch_
+
+	I then compared all positions in 0. position_rank_ df with 1.0 orgtree_position_rank
+
+	I identified all org_positions which occured in 0. pos_rank_ but not 1.0 orgtree_pos_rank
+
+	These were merged with career data and handcoded.
+
+	I also introduced a new variable, InstitutionCategory.
+
+	All 당외곽 및 사회단체 were compared with 2022년 기관별 인명록 & 2022년 기관별 인명록 (별책)
+
+
+2.1 orgtree_position_rank
+
+	This version updates orgtree_position_rank with the edits and coding
+	from all of 2.0_mismatch_ files.
+
+	
+	
+
+
+
+
+	
