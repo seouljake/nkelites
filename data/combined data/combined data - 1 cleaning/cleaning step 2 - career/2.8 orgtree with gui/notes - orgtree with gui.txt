@@ -1,0 +1,24 @@
+
+2023.10.12
+
+This orgtree folder was created 2023.10.12 in order to transform the orgtree structure using a GUI:
+- created in PySimpleGUI
+- which allows add, delete, editing of new
+- orgs & metadata (table)
+- child-to-parent links, which can change over time (list)
+- parent-to-child links (tree)
+
+As the orgtree is transformed, it will also be important to:
+- map (PrimaryInstitution,OrgName) pairs in LeaderCareerLink to orgtree
+
+
+relevant paths
+
+- orgtree data
+
+github/nkelites/data/combined data/combined data - 1 cleaning/cleaning step 2 - career/2.8 orgtree with gui/
+
+- gui
+
+github/nkelites/gui/1 orgtree gui/
+	
