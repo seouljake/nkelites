@@ -19,7 +19,10 @@ MLINE_KEY = '-ML-'+sg.WRITE_ONLY_KEY
 year_min = mvalid.year_min
 year_max = mvalid.year_max
 
-text_default =  str(mdat.QShape())+'\n' + str(year_max)+'\n'
+ot = mdat.ot
+ot_tree = mdat.ot_tree
+
+text_default =  str(ot.shape)+'\n' + str(year_max)+'\n'
 
 
 # functions
@@ -28,7 +31,8 @@ text_default =  str(mdat.QShape())+'\n' + str(year_max)+'\n'
 # layout
 layout = [
         [sg.Text('Year'), sg.InputText(str(year_max),key='-Year-'), sg.Button('Update Tree')],
-        [sg.Multiline(default_text=text_default,size=(20,10), key=MLINE_KEY)]
+        #[sg.Multiline(default_text=text_default,size=(20,10), key=MLINE_KEY)]
+        [sg.Tree(ot_tree)]
     ]
 
 
@@ -47,7 +51,8 @@ while True:
     if event == 'Update Tree':
         year_input = values['-Year-']
         if mvalid.ValidTreeYear(year_input):
-            window[MLINE_KEY].update(year_input+'\n', append=True)
+            #window[MLINE_KEY].update(year_input+'\n', append=True)
+            sg.popup("Next Step")
         else:
             popup_msg = 'Enter a year between '+str(year_min)+' and '+str(year_max)+'.'
             sg.popup(popup_msg)

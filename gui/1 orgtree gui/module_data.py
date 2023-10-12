@@ -23,5 +23,7 @@ ot = pd.read_excel(ot_path+ot_fname,dtype=str)
 def QShape():
     return ot.shape
 
+tree_columns = ["Parent_Key","Child_Key","Child_Name"]
+ot_tree = ot[tree_columns]
 
 
