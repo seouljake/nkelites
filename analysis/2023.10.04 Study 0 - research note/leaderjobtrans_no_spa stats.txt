@@ -1,0 +1,16 @@
+9033 itmes
+2301 not jobs
+731 uncertain
+779 in SPA 
+5221 jobs, certain, not in SPA
+
+637 leaders, overall
+584 leaders with certain jobs, not in SPA
+6047 leader-job items
+
+967 unique organizations
+1507 unique organization-positions
+
+505 leaders with 1+ job transitions
+79 leaders excluded (only 1 job)
+4306 job transitions, SPA jobs excluded
