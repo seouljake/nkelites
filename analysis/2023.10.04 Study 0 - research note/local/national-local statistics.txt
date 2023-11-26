@@ -1,0 +1,46 @@
+national-local statistics - orgs
+
+2368 	total organizations
+2099 	national organizations
+269 	local organizations
+
+
+national-local statistics - leader-jobs (includes duplicate positions)
+
+6047 	total leader-jobs
+5580	national leader-jobs
+467	local leader-jobs
+
+
+national-local statistics - leaders by jobs
+
+584	total leaders
+
+565	leaders have had 1+ national jobs
+19	have NEVER had a national job
+
+161	have had 1+ local jobs
+423	have NEVER had a local job
+
+
+
+national-local statistics - transitions - jobs (2x2 job transition matrix)
+
+4306	total transitions
+
+3873	national-to-national
+133	national-to-local
+84	local-to-local
+216	local-to-national
+
+
+national-local statistics - leaders by transitions
+
+584	total leaders
+
+470	have had 3873 national-national transitions
+85	have had 133 national-local transitions
+54 	have had 84 local-local transitions
+133	have had 216 local-national transitions
+
+
