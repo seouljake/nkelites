@@ -1,0 +1,68 @@
+=================================
+Within-Institutions, Broad Succession Period
+=================================
+
+Organizational Advancement 
+ 
+Overall P1<P2 *
+Gov P1=P2
+Party P1<P2*
+Military NA (small sample)
+
+Position Advancement
+
+Overall P1=P2
+Gov	P1=P2
+Party P1=P2
+Military P1=P2
+
+
+=================================
+Within-Institutions, Narrow Succession Period
+=================================
+
+Organizational Advancement 
+ 
+Overall P1 < P2 *
+Gov P1=P2
+Party P1<P2*
+Military P1=P2
+
+Position Advancement
+
+Overall P1=P2
+Gov NA
+Party NA
+Military NA
+
+=================================
+Between-Institutions, Broad Succession Period
+=================================
+
+Organizational Advancement 
+ 
+Overall P1>P2*
+Gov P1=P2
+Soc P1>P2*
+Party P1<P2*
+Military P1>P2*
+
+Position Advancement
+
+NA
+
+=================================
+Between-Institutions, Narrow Succession Period
+=================================
+
+Organizational Advancement 
+ 
+Overall P1>P2*
+Gov P1>P2*
+Soc P1>P2*
+Party P1=P2
+Military P1=P2
+
+Position Advancement
+
+NA
